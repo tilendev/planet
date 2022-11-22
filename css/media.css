@@ -1,0 +1,241 @@
+@media (max-width: 1440px){
+    .container {
+        width: 90%;
+    }
+}
+@media (max-width: 1200px){
+    .container {
+        width: 90%;
+    }
+}
+@media (max-width: 1024px){
+    .hero {
+        flex-direction: column;
+    }
+    .hero h1 {
+        text-align: center;
+    }
+    .hero p {
+        text-align: center;
+    }
+    .hero-line {
+        margin-left: 214px;
+    }
+    .hero button {
+        margin-left: 172px;
+    }
+    .stories {
+        flex-direction: column;
+    }
+    .plan-line {
+        width: 700px;
+    }
+}
+@media (max-width: 992px){
+    .hero {
+        flex-direction: column;
+    }
+    .hero h1 {
+        text-align: center;
+    }
+    .hero p {
+        text-align: center;
+    }
+    .hero-line {
+        margin-left: 214px;
+    }
+    .hero button {
+        margin-left: 172px;
+    }
+    .stories {
+        flex-direction: column;
+    }
+    .plan-line {
+        width: 700px;
+    }
+}
+@media (max-width: 768px) {
+    .world {
+        flex-direction: column-reverse;
+    }
+    .hero img {
+        width: 522px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .hero h1 {
+        font-size: 40px;
+    }
+    .hero p {
+        font-size: 18px
+    }
+    .world h1 {
+        font-size: 40px;
+        text-align: center;
+    }
+    .world p {
+        font-size: 18px;
+        text-align: center;
+    }
+    .world button {
+        margin-left: 159px;
+    }
+    .world img {
+        width: 522px;
+    }
+    .sunny {
+        flex-direction: column;
+    }
+    .sunny h1 {
+        text-align: center;
+        font-size: 40px;
+    }
+    .sunny p {
+        font-size: 18px;
+        text-align: center;
+    }
+    .sunny button {
+        margin-left: 159px;
+    }
+    .circle-h {
+        font-size: 35px;
+    }
+    .circle-title p {
+        font-size: 22px;
+    }
+    .stories-h {
+        font-size: 40px;
+        text-align: center  ;
+    }
+    .block {
+        padding: 30px 0;
+    }
+    .block h1 {
+        text-align: center;
+    }
+    .block p {
+        text-align: center;
+    }
+    .block a {
+        padding-left: 91px;
+    }
+    .plan p {
+        font-size: 15px;
+    }
+    .plan-title h2 {
+        font-size: 15px;
+    }
+    .plan-nav h1 {
+        font-size: 16px;
+    }
+    .plan-nav a {
+        font-size: 15px;
+    }
+    .plan-line {
+        width: 527px;
+    }
+}
+@media (max-width: 576px) {
+    .header-title a {
+        display: none;
+    }
+    .hero h1 {
+        font-size: 38px;
+    }
+    .hero-img img {
+        width: 480px;
+    }
+    .world img {
+        width: 480px;
+    }
+    .sunny img {
+        width: 480px;
+    }
+    .circle {
+        flex-direction: column;
+    }
+    .circle-h {
+        padding-top: 60px;
+    }
+    .circle-title p {
+        text-align: center;
+    }
+    .plan-nav {
+        display: none;
+    }
+    .plan-line {
+        width: 287px;
+    }
+
+}
+@media (max-width: 451px) {
+    .hero h1 {
+        width: 40px;
+    }
+    .hero p {
+        width: 20px;
+    }
+    .hero-select select {
+        width: 186px;
+        height: 41px;
+        border: 0.8px solid #AFB0B9;
+        border-radius: 6px;
+        font-weight: 400;
+        font-size: 15px;
+        color: #4A4C53;
+        mix-blend-mode: normal;
+        padding: 0 20px;
+        margin: 0 21px;
+    }
+    .hero-select-bot select {
+        width: 186px;
+        height: 41px;
+        border: 0.8px solid #AFB0B9;
+        border-radius: 6px;
+        font-weight: 400;
+        font-size: 15px;
+        color: #4A4C53;
+        mix-blend-mode: normal;
+        padding: 0 20px;
+        margin: 0 21px;
+    }
+    .hero img  {
+        width: 347px;
+    }
+    .world h1 {
+        font-size: 30px;
+    }
+    .world p {
+        font-size: 15px;
+    }
+    .world button {
+        margin-right: 156px;
+    }
+    .world img {
+        width: 400px;
+    }
+    .sunny h1 {
+        font-size: 35px;
+    }
+    .sunny p {
+        font-size: 15px;
+    }
+    .sunny button {
+        margin-left: 110px;
+    }
+    .sunny img {
+        width: 397px ;
+        padding: 30px 0;
+    }
+    .circle-h {
+        font-size: 33px;
+    }
+
+}
+@media (max-width: 400px) {
+}
+@media (max-width: 376px) {
+}
+@media (max-width: 320px) {
+}
